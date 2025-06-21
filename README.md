@@ -4,11 +4,19 @@
 
 ## 👨‍💻 About Me
 
-- 💼 I'm a **Flutter Developer** passionate about building clean, scalable mobile apps.
-- 🚀 Currently working on **Emdad**, a platform focused on pharmacy supply and warehouse communication.
-- 🧠 Learning **clean architecture**, **Cubit/Bloc**, and improving my **Kotlin** Android fundamentals.
-- 🤝 I love collaborating and learning from other developers.
-- 🌍 Based in **Egypt**.
+Hey! I’m Ahmed Mohsen, a passionate Flutter developer based in Egypt, focused on building clean, scalable mobile apps that solve real-world problems.
+
+🚀 Currently working on Emdad, a platform that streamlines communication between pharmacies and storage providers.
+
+🧠 Continuously learning — exploring Cubit/Bloc, clean architecture, and design patterns like MVVM and MVC to build better structured and testable code.
+
+💡 I have hands-on experience with Flutter, some background in Android (Kotlin), and a growing interest in Angular for web development.
+
+💬 I love writing maintainable code, collaborating with other devs, and sipping coffee while debugging ☕.
+
+🌍 Open to remote roles, freelance gigs, or just connecting with fellow developers!
+
+Let’s build something great together!
 
 ## 🛠️ Tech Stack
 
@@ -24,10 +32,6 @@
 - 💼 LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
 
-## 📈 GitHub Stats
-
-![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedmohsen&show_icons=true&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedmohsen&layout=compact&theme=default)
 
 ---
 
