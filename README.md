@@ -6,11 +6,11 @@
 
 Hey! I’m Ahmed Mohsen, a passionate Flutter developer based in Egypt, focused on building clean, scalable mobile apps that solve real-world problems.
 
-🚀 Currently working on Emdad, a platform that streamlines communication between pharmacies and storage providers.
+🚀 Currently working on **Emdad**, a platform that streamlines communication between pharmacies and storage providers.
 
-🧠 Continuously learning — exploring Cubit/Bloc, clean architecture, and design patterns like MVVM and MVC to build better structured and testable code.
+🧠 Continuously learning — exploring **Cubit/Bloc**, **clean architecture**, and design patterns like **MVVM** and **MVC** to build better structured and testable code.
 
-💡 I have hands-on experience with Flutter, some background in Android (Kotlin), and a growing interest in Angular for web development.
+💡 I have hands-on experience with **Flutter**, some background in **Android (Kotlin)**, and a growing interest in **Angular** for web development.
 
 💬 I love writing maintainable code, collaborating with other devs, and sipping coffee while debugging ☕.
 
@@ -28,11 +28,10 @@ Let’s build something great together!
 
 ## 📫 How to Reach Me
 
-- 💌 Email: ahmedthemohsen@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/your-profile]([https://www.linkedin.com/in/ahmed-mohsen-111theone])
-
-
+- 💌 Email: ahmedthemohsen@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/ahmed-mohsen-111theone](https://www.linkedin.com/in/ahmed-mohsen-111theone)
 
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+
