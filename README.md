@@ -29,7 +29,7 @@ Let’s build something great together!
 ## 📫 How to Reach Me
 
 - 💌 Email: ahmedthemohsen@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/your-profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/ahmed-mohsen-111theone))
+- 💼 LinkedIn: [linkedin.com/in/your-profile]([https://www.linkedin.com/in/ahmed-mohsen-111theone])
 
 
 
